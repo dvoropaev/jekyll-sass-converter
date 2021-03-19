@@ -1,0 +1,2 @@
+tar: v@version@:. name=@name@-v@version@ base=@name@-v@version@
+spec: .gear/jekyll-sass-converter.spec
